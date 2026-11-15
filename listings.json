@@ -1,1 +1,30 @@
-[]
+[
+ {
+  "k": "h",
+  "ty": "Hackathon",
+  "t": "DSH Hacks V2 ($100k+ in prizes!)",
+  "o": "STEMise",
+  "d": "Submissions close 15 Nov 2026",
+  "e": "2026-11-15",
+  "v": "Online",
+  "f": "Prizes: $0",
+  "el": "See official page",
+  "l": "https://dsh-hacks-v2.devpost.com/",
+  "c": "2026-11-15",
+  "auto": 1
+ },
+ {
+  "k": "h",
+  "ty": "Hackathon",
+  "t": "Mathematics for systems security",
+  "o": "Software Engineering Club (DEV)",
+  "d": "Submissions close 15 Nov 2026",
+  "e": "2026-11-15",
+  "v": "Online",
+  "f": "Prizes: $0",
+  "el": "See official page",
+  "l": "https://mathematics-systems-security.devpost.com/",
+  "c": "2026-11-15",
+  "auto": 1
+ }
+]
