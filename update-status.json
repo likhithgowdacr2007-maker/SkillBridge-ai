@@ -1,0 +1,34 @@
+{
+ "updated": "2026-11-18",
+ "sources": {
+  "j": [
+   {
+    "name": "Adzuna India",
+    "ok": false,
+    "count": 0,
+    "error": "HTTP Error 401: Unauthorized"
+   }
+  ],
+  "s": [
+   {
+    "name": "Links checked today: 5 working, 2 gone (fix in admin), 14 could not be reached",
+    "ok": true,
+    "count": 21
+   }
+  ],
+  "t": [
+   {
+    "name": "Links checked today: 17 working, 1 gone (fix in admin), 4 could not be reached",
+    "ok": true,
+    "count": 22
+   }
+  ],
+  "f": [
+   {
+    "name": "Links checked today: 12 working, 1 could not be reached",
+    "ok": true,
+    "count": 13
+   }
+  ]
+ }
+}

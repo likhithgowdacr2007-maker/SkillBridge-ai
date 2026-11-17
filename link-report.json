@@ -1,0 +1,137 @@
+{
+ "checked": "2026-11-18",
+ "needs_attention": [
+  {
+   "kind": "Schemes",
+   "title": "National Apprenticeship Promotion Scheme (NAPS)",
+   "link": "https://www.apprenticeshipindia.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "National Apprenticeship Training Scheme (NATS)",
+   "link": "https://nats.education.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "PM Internship Scheme",
+   "link": "https://pminternship.mca.gov.in/",
+   "result": "gone"
+  },
+  {
+   "kind": "Schemes",
+   "title": "National Scholarship Portal",
+   "link": "https://scholarships.gov.in/",
+   "result": "gone"
+  },
+  {
+   "kind": "Schemes",
+   "title": "DDU-GKY rural skilling and placement",
+   "link": "https://ddugky.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "PM-DAKSH skilling for SC, OBC and other groups",
+   "link": "https://pmdaksh.dosje.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "PM Vishwakarma",
+   "link": "https://pmvishwakarma.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "PM Mudra Yojana",
+   "link": "https://www.mudra.org.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "Stand-Up India",
+   "link": "https://www.standupmitra.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "Employment Linked Incentive (PM Viksit Bharat Rozgar Yojana)",
+   "link": "https://www.epfindia.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "Karnataka Yuva Nidhi",
+   "link": "https://sevasindhu.karnataka.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "AICTE Pragati and Saksham scholarships",
+   "link": "https://www.aicte-india.org/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "INSPIRE scholarship (DST)",
+   "link": "https://www.online-inspire.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "SANKALP skilling programme (Karnataka)",
+   "link": "https://kaushalkar.karnataka.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "International Migration Centre, Karnataka (IMC-K)",
+   "link": "https://kaushalkar.karnataka.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Schemes",
+   "title": "Common Service Centres (CSC) skill courses",
+   "link": "https://csc.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Training",
+   "title": "KSDC training registration (Karnataka)",
+   "link": "https://kaushalkar.karnataka.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Training",
+   "title": "Chief Minister's Kaushalya Karnataka Yojane (CMKKY)",
+   "link": "https://kaushalkar.karnataka.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Training",
+   "title": "GTTC and KGTTI tool room training",
+   "link": "https://kaushalkar.karnataka.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Training",
+   "title": "Kaggle Learn",
+   "link": "https://www.kaggle.com/learn",
+   "result": "gone"
+  },
+  {
+   "kind": "Training",
+   "title": "NIELIT courses",
+   "link": "https://www.nielit.gov.in/",
+   "result": "unreachable"
+  },
+  {
+   "kind": "Job fairs",
+   "title": "Karnataka job fairs (KSDC)",
+   "link": "https://kaushalkar.karnataka.gov.in/",
+   "result": "unreachable"
+  }
+ ]
+}
