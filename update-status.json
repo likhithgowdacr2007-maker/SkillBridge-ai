@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "sources": {
   "j": [
    {
     "name": "Adzuna India",
     "ok": false,
     "count": 0,
-    "error": "HTTP Error 503: Service Temporarily Unavailable"
+    "error": "HTTP Error 401: Unauthorized"
    }
   ],
   "s": [
