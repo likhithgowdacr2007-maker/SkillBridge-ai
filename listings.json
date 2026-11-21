@@ -2,34 +2,6 @@
  {
   "k": "h",
   "ty": "Hackathon",
-  "t": "Dakar Bitcoin Hack by BTrust",
-  "o": "Dakar Bitcoin Days",
-  "d": "Submissions close 20 Nov 2026",
-  "e": "2026-11-20",
-  "v": "Online",
-  "f": "Prizes: $900",
-  "el": "See official page",
-  "l": "https://dakar-bitcoin-hack-2026.devpost.com/",
-  "c": "2026-11-20",
-  "auto": 1
- },
- {
-  "k": "h",
-  "ty": "Hackathon",
-  "t": "STEM2Connect AI Hackathon",
-  "o": "STEM2Connect",
-  "d": "Submissions close 21 Nov 2026",
-  "e": "2026-11-21",
-  "v": "Online",
-  "f": "Prizes: $0",
-  "el": "See official page",
-  "l": "https://stem2connect-online-hackathon.devpost.com/",
-  "c": "2026-11-20",
-  "auto": 1
- },
- {
-  "k": "h",
-  "ty": "Hackathon",
   "t": "Taskforge",
   "o": "HackathonForEveryone",
   "d": "Submissions close 24 Nov 2026",
@@ -38,7 +10,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://taskforge.devpost.com/",
-  "c": "2026-11-20",
+  "c": "2026-11-21",
   "auto": 1
  },
  {
@@ -52,7 +24,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://hackathon-agentico-2026b.devpost.com/",
-  "c": "2026-11-20",
+  "c": "2026-11-21",
   "auto": 1
  },
  {
@@ -66,7 +38,7 @@
   "f": "Prizes: ₹ 500,000",
   "el": "See official page",
   "l": "https://hackwithaditya.devpost.com/",
-  "c": "2026-11-20",
+  "c": "2026-11-21",
   "auto": 1
  },
  {
@@ -80,7 +52,21 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://build-your-first-ai-app.devpost.com/",
-  "c": "2026-11-20",
+  "c": "2026-11-21",
+  "auto": 1
+ },
+ {
+  "k": "h",
+  "ty": "Hackathon",
+  "t": "STEM2Connect AI Hackathon",
+  "o": "STEM2Connect",
+  "d": "Submissions close 29 Nov 2026",
+  "e": "2026-11-29",
+  "v": "Online",
+  "f": "Prizes: $0",
+  "el": "See official page",
+  "l": "https://stem2connect-online-hackathon.devpost.com/",
+  "c": "2026-11-21",
   "auto": 1
  },
  {
@@ -94,7 +80,7 @@
   "f": "Prizes: $300",
   "el": "See official page",
   "l": "https://csc-winter-sparkathon.devpost.com/",
-  "c": "2026-11-20",
+  "c": "2026-11-21",
   "auto": 1
  },
  {
@@ -108,7 +94,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://code-for-dfw.devpost.com/",
-  "c": "2026-11-20",
+  "c": "2026-11-21",
   "auto": 1
  }
 ]
