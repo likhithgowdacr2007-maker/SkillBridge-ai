@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-21",
+ "checked": "2026-11-22",
  "needs_attention": [
   {
    "kind": "Schemes",
@@ -23,7 +23,7 @@
    "kind": "Schemes",
    "title": "National Scholarship Portal",
    "link": "https://scholarships.gov.in/",
-   "result": "unreachable"
+   "result": "gone"
   },
   {
    "kind": "Schemes",
