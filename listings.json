@@ -10,7 +10,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://taskforge.devpost.com/",
-  "c": "2026-11-22",
+  "c": "2026-11-23",
   "auto": 1
  },
  {
@@ -24,7 +24,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://hackathon-agentico-2026b.devpost.com/",
-  "c": "2026-11-22",
+  "c": "2026-11-23",
   "auto": 1
  },
  {
@@ -38,7 +38,7 @@
   "f": "Prizes: ₹ 500,000",
   "el": "See official page",
   "l": "https://hackwithaditya.devpost.com/",
-  "c": "2026-11-22",
+  "c": "2026-11-23",
   "auto": 1
  },
  {
@@ -52,7 +52,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://build-your-first-ai-app.devpost.com/",
-  "c": "2026-11-22",
+  "c": "2026-11-23",
   "auto": 1
  },
  {
@@ -66,7 +66,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://stem2connect-online-hackathon.devpost.com/",
-  "c": "2026-11-22",
+  "c": "2026-11-23",
   "auto": 1
  },
  {
@@ -80,7 +80,7 @@
   "f": "Prizes: $300",
   "el": "See official page",
   "l": "https://csc-winter-sparkathon.devpost.com/",
-  "c": "2026-11-22",
+  "c": "2026-11-23",
   "auto": 1
  },
  {
@@ -94,7 +94,49 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://code-for-dfw.devpost.com/",
-  "c": "2026-11-22",
+  "c": "2026-11-23",
+  "auto": 1
+ },
+ {
+  "k": "h",
+  "ty": "Hackathon",
+  "t": "DIU Dev Meetup 2026",
+  "o": "Data Science Club @ DIU",
+  "d": "Submissions close 01 Dec 2026",
+  "e": "2026-12-01",
+  "v": "Online",
+  "f": "Prizes: $0",
+  "el": "See official page",
+  "l": "https://diu-devthon.devpost.com/",
+  "c": "2026-11-23",
+  "auto": 1
+ },
+ {
+  "k": "h",
+  "ty": "Hackathon",
+  "t": "Code for Change",
+  "o": "HackathonForEveryone",
+  "d": "Submissions close 01 Dec 2026",
+  "e": "2026-12-01",
+  "v": "Online",
+  "f": "Prizes: $200",
+  "el": "See official page",
+  "l": "https://code-for-change-global.devpost.com/",
+  "c": "2026-11-23",
+  "auto": 1
+ },
+ {
+  "k": "h",
+  "ty": "Hackathon",
+  "t": "ML Empowerment Build Challenge 4.0 (250K IN PRIZES!)",
+  "o": "ML Empowerment Foundation",
+  "d": "Submissions close 02 Dec 2026",
+  "e": "2026-12-02",
+  "v": "Online",
+  "f": "Prizes: $0",
+  "el": "See official page",
+  "l": "https://ml-build-challenge-4.devpost.com/",
+  "c": "2026-11-23",
   "auto": 1
  }
 ]
