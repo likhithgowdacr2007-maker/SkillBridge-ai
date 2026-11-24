@@ -10,7 +10,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://taskforge.devpost.com/",
-  "c": "2026-11-23",
+  "c": "2026-11-24",
   "auto": 1
  },
  {
@@ -24,7 +24,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://hackathon-agentico-2026b.devpost.com/",
-  "c": "2026-11-23",
+  "c": "2026-11-24",
   "auto": 1
  },
  {
@@ -38,21 +38,7 @@
   "f": "Prizes: ₹ 500,000",
   "el": "See official page",
   "l": "https://hackwithaditya.devpost.com/",
-  "c": "2026-11-23",
-  "auto": 1
- },
- {
-  "k": "h",
-  "ty": "Hackathon",
-  "t": "Build Your First AI App",
-  "o": "Yasir Insights",
-  "d": "Submissions close 27 Nov 2026",
-  "e": "2026-11-27",
-  "v": "Online",
-  "f": "Prizes: $0",
-  "el": "See official page",
-  "l": "https://build-your-first-ai-app.devpost.com/",
-  "c": "2026-11-23",
+  "c": "2026-11-24",
   "auto": 1
  },
  {
@@ -66,7 +52,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://stem2connect-online-hackathon.devpost.com/",
-  "c": "2026-11-23",
+  "c": "2026-11-24",
   "auto": 1
  },
  {
@@ -80,7 +66,7 @@
   "f": "Prizes: $300",
   "el": "See official page",
   "l": "https://csc-winter-sparkathon.devpost.com/",
-  "c": "2026-11-23",
+  "c": "2026-11-24",
   "auto": 1
  },
  {
@@ -94,7 +80,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://code-for-dfw.devpost.com/",
-  "c": "2026-11-23",
+  "c": "2026-11-24",
   "auto": 1
  },
  {
@@ -108,7 +94,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://diu-devthon.devpost.com/",
-  "c": "2026-11-23",
+  "c": "2026-11-24",
   "auto": 1
  },
  {
@@ -122,7 +108,7 @@
   "f": "Prizes: $200",
   "el": "See official page",
   "l": "https://code-for-change-global.devpost.com/",
-  "c": "2026-11-23",
+  "c": "2026-11-24",
   "auto": 1
  },
  {
@@ -136,7 +122,21 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://ml-build-challenge-4.devpost.com/",
-  "c": "2026-11-23",
+  "c": "2026-11-24",
+  "auto": 1
+ },
+ {
+  "k": "h",
+  "ty": "Hackathon",
+  "t": "LaunchPad Hacks (580k In Prizes!)",
+  "o": "Hack4TodayOrg",
+  "d": "Submissions close 04 Dec 2026",
+  "e": "2026-12-04",
+  "v": "Online",
+  "f": "Prizes: $300",
+  "el": "See official page",
+  "l": "https://launchpad-hacks.devpost.com/",
+  "c": "2026-11-24",
   "auto": 1
  }
 ]
