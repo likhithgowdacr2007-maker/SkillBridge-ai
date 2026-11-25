@@ -2,34 +2,6 @@
  {
   "k": "h",
   "ty": "Hackathon",
-  "t": "Taskforge",
-  "o": "HackathonForEveryone",
-  "d": "Submissions close 24 Nov 2026",
-  "e": "2026-11-24",
-  "v": "Online",
-  "f": "Prizes: $0",
-  "el": "See official page",
-  "l": "https://taskforge.devpost.com/",
-  "c": "2026-11-24",
-  "auto": 1
- },
- {
-  "k": "h",
-  "ty": "Hackathon",
-  "t": "Hackathon Agéntico SoftwareChido 2026B",
-  "o": "ITESO",
-  "d": "Submissions close 25 Nov 2026",
-  "e": "2026-11-25",
-  "v": "Online",
-  "f": "Prizes: $0",
-  "el": "See official page",
-  "l": "https://hackathon-agentico-2026b.devpost.com/",
-  "c": "2026-11-24",
-  "auto": 1
- },
- {
-  "k": "h",
-  "ty": "Hackathon",
   "t": "HackWithAditya",
   "o": "Aditya University",
   "d": "Submissions close 25 Nov 2026",
@@ -38,7 +10,7 @@
   "f": "Prizes: ₹ 500,000",
   "el": "See official page",
   "l": "https://hackwithaditya.devpost.com/",
-  "c": "2026-11-24",
+  "c": "2026-11-25",
   "auto": 1
  },
  {
@@ -52,7 +24,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://stem2connect-online-hackathon.devpost.com/",
-  "c": "2026-11-24",
+  "c": "2026-11-25",
   "auto": 1
  },
  {
@@ -66,7 +38,7 @@
   "f": "Prizes: $300",
   "el": "See official page",
   "l": "https://csc-winter-sparkathon.devpost.com/",
-  "c": "2026-11-24",
+  "c": "2026-11-25",
   "auto": 1
  },
  {
@@ -80,7 +52,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://code-for-dfw.devpost.com/",
-  "c": "2026-11-24",
+  "c": "2026-11-25",
   "auto": 1
  },
  {
@@ -94,7 +66,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://diu-devthon.devpost.com/",
-  "c": "2026-11-24",
+  "c": "2026-11-25",
   "auto": 1
  },
  {
@@ -108,7 +80,7 @@
   "f": "Prizes: $200",
   "el": "See official page",
   "l": "https://code-for-change-global.devpost.com/",
-  "c": "2026-11-24",
+  "c": "2026-11-25",
   "auto": 1
  },
  {
@@ -122,7 +94,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://ml-build-challenge-4.devpost.com/",
-  "c": "2026-11-24",
+  "c": "2026-11-25",
   "auto": 1
  },
  {
@@ -136,7 +108,35 @@
   "f": "Prizes: $300",
   "el": "See official page",
   "l": "https://launchpad-hacks.devpost.com/",
-  "c": "2026-11-24",
+  "c": "2026-11-25",
+  "auto": 1
+ },
+ {
+  "k": "h",
+  "ty": "Hackathon",
+  "t": "Kiroween 2026",
+  "o": "Kiro",
+  "d": "Submissions close 04 Dec 2026",
+  "e": "2026-12-04",
+  "v": "Online",
+  "f": "Prizes: $100,000",
+  "el": "See official page",
+  "l": "https://kiroween.devpost.com/",
+  "c": "2026-11-25",
+  "auto": 1
+ },
+ {
+  "k": "h",
+  "ty": "Hackathon",
+  "t": "AI for Medicine: A Global Student Hackathon on the Future of Care",
+  "o": "Open Health AI Collective",
+  "d": "Submissions close 04 Dec 2026",
+  "e": "2026-12-04",
+  "v": "Online",
+  "f": "Prizes: $0",
+  "el": "See official page",
+  "l": "https://ai-for-medicine.devpost.com/",
+  "c": "2026-11-25",
   "auto": 1
  }
 ]
