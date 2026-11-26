@@ -2,20 +2,6 @@
  {
   "k": "h",
   "ty": "Hackathon",
-  "t": "HackWithAditya",
-  "o": "Aditya University",
-  "d": "Submissions close 25 Nov 2026",
-  "e": "2026-11-25",
-  "v": "Online",
-  "f": "Prizes: ₹ 500,000",
-  "el": "See official page",
-  "l": "https://hackwithaditya.devpost.com/",
-  "c": "2026-11-25",
-  "auto": 1
- },
- {
-  "k": "h",
-  "ty": "Hackathon",
   "t": "STEM2Connect AI Hackathon",
   "o": "STEM2Connect",
   "d": "Submissions close 29 Nov 2026",
@@ -24,7 +10,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://stem2connect-online-hackathon.devpost.com/",
-  "c": "2026-11-25",
+  "c": "2026-11-26",
   "auto": 1
  },
  {
@@ -38,7 +24,7 @@
   "f": "Prizes: $300",
   "el": "See official page",
   "l": "https://csc-winter-sparkathon.devpost.com/",
-  "c": "2026-11-25",
+  "c": "2026-11-26",
   "auto": 1
  },
  {
@@ -52,7 +38,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://code-for-dfw.devpost.com/",
-  "c": "2026-11-25",
+  "c": "2026-11-26",
   "auto": 1
  },
  {
@@ -66,7 +52,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://diu-devthon.devpost.com/",
-  "c": "2026-11-25",
+  "c": "2026-11-26",
   "auto": 1
  },
  {
@@ -80,7 +66,7 @@
   "f": "Prizes: $200",
   "el": "See official page",
   "l": "https://code-for-change-global.devpost.com/",
-  "c": "2026-11-25",
+  "c": "2026-11-26",
   "auto": 1
  },
  {
@@ -94,7 +80,21 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://ml-build-challenge-4.devpost.com/",
-  "c": "2026-11-25",
+  "c": "2026-11-26",
+  "auto": 1
+ },
+ {
+  "k": "h",
+  "ty": "Hackathon",
+  "t": "Fanshawe Hacks",
+  "o": "club",
+  "d": "Submissions close 03 Dec 2026",
+  "e": "2026-12-03",
+  "v": "Online",
+  "f": "Prizes: $0",
+  "el": "See official page",
+  "l": "https://fanshawe-hacks.devpost.com/",
+  "c": "2026-11-26",
   "auto": 1
  },
  {
@@ -108,7 +108,7 @@
   "f": "Prizes: $300",
   "el": "See official page",
   "l": "https://launchpad-hacks.devpost.com/",
-  "c": "2026-11-25",
+  "c": "2026-11-26",
   "auto": 1
  },
  {
@@ -122,7 +122,7 @@
   "f": "Prizes: $100,000",
   "el": "See official page",
   "l": "https://kiroween.devpost.com/",
-  "c": "2026-11-25",
+  "c": "2026-11-26",
   "auto": 1
  },
  {
@@ -136,7 +136,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://ai-for-medicine.devpost.com/",
-  "c": "2026-11-25",
+  "c": "2026-11-26",
   "auto": 1
  }
 ]
