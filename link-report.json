@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-25",
+ "checked": "2026-11-26",
  "needs_attention": [
   {
    "kind": "Schemes",
@@ -120,12 +120,6 @@
    "title": "Kaggle Learn",
    "link": "https://www.kaggle.com/learn",
    "result": "gone"
-  },
-  {
-   "kind": "Training",
-   "title": "NIELIT courses",
-   "link": "https://www.nielit.gov.in/",
-   "result": "unreachable"
   },
   {
    "kind": "Job fairs",
