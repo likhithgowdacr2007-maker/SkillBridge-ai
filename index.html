@@ -95,7 +95,7 @@ const RL=[{"k": "h", "ty": "Hackathon", "t": "hackCBS 9.0", "o": "Student-run ha
 // SkillBridge AI - state.js
 // App state, browser storage (localStorage), small helpers and the roadmap builder.
 let S={p:{year:'1',deg:'B.Tech / B.E.',br:'Computer Science & Engineering',ski:[],int:[],goal:''},c:'',done:{},pj:{},sv:[],q:null,ob:0,nm:''};
-const ADMIN='likhithgowda925@gmail.com',AH='715d820b15b7132af6a532ac5fb478f831974badb7b76204832ef80587283a61',BR=['Computer Science & Engineering','Information Science & Engineering','AI & Machine Learning','Data Science','Electronics & Communication','Electrical & Electronics','Mechanical','Civil','Chemical','Biotechnology','Aerospace','Other Engineering'],esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const ADMIN='likhithgowda925@gmail.com',AH='61e7be75bb1984776f2b247ed58ca0b05e452ded8d948082161f1552d6e3a8d8',BR=['Computer Science & Engineering','Information Science & Engineering','AI & Machine Learning','Data Science','Electronics & Communication','Electrical & Electronics','Mechanical','Civil','Chemical','Biotechnology','Aerospace','Other Engineering'],esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const L=k=>{try{return JSON.parse(localStorage.getItem(k)||'null')}catch(e){return null}},W=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}};
 let U=L('cpai_cur'),AD=L('cpai_admin')||[];const key=()=>U?'cpai_u_'+U:'cpai',isAd=()=>U===ADMIN;
 Object.assign(S,L(key())||{});const sv=()=>W(key(),S);
