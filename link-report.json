@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27",
+ "checked": "2026-11-28",
  "needs_attention": [
   {
    "kind": "Schemes",
@@ -12,12 +12,6 @@
    "title": "National Apprenticeship Training Scheme (NATS)",
    "link": "https://nats.education.gov.in/",
    "result": "unreachable"
-  },
-  {
-   "kind": "Schemes",
-   "title": "PM Internship Scheme",
-   "link": "https://pminternship.mca.gov.in/",
-   "result": "gone"
   },
   {
    "kind": "Schemes",

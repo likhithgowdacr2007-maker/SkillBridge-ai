@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "sources": {
   "j": [
    {
@@ -11,7 +11,7 @@
   ],
   "s": [
    {
-    "name": "Links checked today: 5 working, 2 gone (fix in admin), 14 could not be reached",
+    "name": "Links checked today: 6 working, 1 gone (fix in admin), 14 could not be reached",
     "ok": true,
     "count": 21
    }
