@@ -2,20 +2,6 @@
  {
   "k": "h",
   "ty": "Hackathon",
-  "t": "Hackathon Agéntico SoftwareChido 2026B",
-  "o": "ITESO",
-  "d": "Submissions close 27 Nov 2026",
-  "e": "2026-11-27",
-  "v": "Online",
-  "f": "Prizes: $0",
-  "el": "See official page",
-  "l": "https://hackathon-agentico-2026b.devpost.com/",
-  "c": "2026-11-27",
-  "auto": 1
- },
- {
-  "k": "h",
-  "ty": "Hackathon",
   "t": "STEM2Connect AI Hackathon",
   "o": "STEM2Connect",
   "d": "Submissions close 29 Nov 2026",
@@ -24,7 +10,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://stem2connect-online-hackathon.devpost.com/",
-  "c": "2026-11-27",
+  "c": "2026-11-28",
   "auto": 1
  },
  {
@@ -38,7 +24,7 @@
   "f": "Prizes: $300",
   "el": "See official page",
   "l": "https://csc-winter-sparkathon.devpost.com/",
-  "c": "2026-11-27",
+  "c": "2026-11-28",
   "auto": 1
  },
  {
@@ -52,7 +38,21 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://code-for-dfw.devpost.com/",
-  "c": "2026-11-27",
+  "c": "2026-11-28",
+  "auto": 1
+ },
+ {
+  "k": "h",
+  "ty": "Hackathon",
+  "t": "Agents that act. Systems that answer.",
+  "o": "studentchakra",
+  "d": "Submissions close 01 Dec 2026",
+  "e": "2026-12-01",
+  "v": "Online",
+  "f": "Prizes: $0",
+  "el": "See official page",
+  "l": "https://accountable-agents.devpost.com/",
+  "c": "2026-11-28",
   "auto": 1
  },
  {
@@ -66,7 +66,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://diu-devthon.devpost.com/",
-  "c": "2026-11-27",
+  "c": "2026-11-28",
   "auto": 1
  },
  {
@@ -80,7 +80,7 @@
   "f": "Prizes: $0",
   "el": "See official page",
   "l": "https://thanksgiving-hackathon.devpost.com/",
-  "c": "2026-11-27",
+  "c": "2026-11-28",
   "auto": 1
  },
  {
@@ -94,49 +94,7 @@
   "f": "Prizes: $200",
   "el": "See official page",
   "l": "https://code-for-change-global.devpost.com/",
-  "c": "2026-11-27",
-  "auto": 1
- },
- {
-  "k": "h",
-  "ty": "Hackathon",
-  "t": "ML Empowerment Build Challenge 4.0 (250K IN PRIZES!)",
-  "o": "ML Empowerment Foundation",
-  "d": "Submissions close 02 Dec 2026",
-  "e": "2026-12-02",
-  "v": "Online",
-  "f": "Prizes: $0",
-  "el": "See official page",
-  "l": "https://ml-build-challenge-4.devpost.com/",
-  "c": "2026-11-27",
-  "auto": 1
- },
- {
-  "k": "h",
-  "ty": "Hackathon",
-  "t": "Fanshawe Hacks",
-  "o": "club",
-  "d": "Submissions close 03 Dec 2026",
-  "e": "2026-12-03",
-  "v": "Online",
-  "f": "Prizes: $0",
-  "el": "See official page",
-  "l": "https://fanshawe-hacks.devpost.com/",
-  "c": "2026-11-27",
-  "auto": 1
- },
- {
-  "k": "h",
-  "ty": "Hackathon",
-  "t": "LaunchPad Hacks (580k In Prizes!)",
-  "o": "Hack4TodayOrg",
-  "d": "Submissions close 04 Dec 2026",
-  "e": "2026-12-04",
-  "v": "Online",
-  "f": "Prizes: $300",
-  "el": "See official page",
-  "l": "https://launchpad-hacks.devpost.com/",
-  "c": "2026-11-27",
+  "c": "2026-11-28",
   "auto": 1
  }
 ]
